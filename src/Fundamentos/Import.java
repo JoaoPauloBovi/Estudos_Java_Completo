@@ -12,4 +12,11 @@ public class Import {
         System.out.println(d);
 
     }
+
+    public static class Logicos {
+        public static void main(String[] args) {
+
+
+        }
+    }
 }
