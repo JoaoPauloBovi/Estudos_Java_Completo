@@ -16,6 +16,7 @@ public class DesafioProduto {
     }
 
     double precoDesconto() {
+
         return preco * (1 - desconto);
     }
 }
