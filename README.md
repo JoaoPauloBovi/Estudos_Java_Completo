@@ -18,4 +18,6 @@ Tecnologias e Ferramentas
 
     Linguagem: Java.
 
-    Ambiente de Desenvolvimento: IDE (Eclipse/IntelliJ) e Git para versionamento.
+    Ambiente de Desenvolvimento: IDE IntelliJ e Git para versionamento.
+
+    Professor: Leonardo Moura Leitão
